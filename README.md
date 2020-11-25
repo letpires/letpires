@@ -4,7 +4,13 @@
 
 ### Hey there 👋,
 
+<ul>
+I graduated in Civil Engineering from the Regional University of Blumenau in 2019 and am currently migrating to Data Science. For this reason, I recently started studies at the Applied Data Science Bootcamp at Alura and I have been developing projects in the area.
+</ul>
 
+</ul>
+I am passionate about technology, entrepreneurship and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity.
+</ul>
 
 ### Interests ⚡
 
