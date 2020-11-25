@@ -1,6 +1,18 @@
-### Hi there 👋
+### Hey there 👋,
 
-###Contact Me
+
+
+### Interests ⚡
+
+<ul>
+  <li>Machine Learning</li>
+  <li>Data Visualization</li>
+  <li>Python</li>
+</ul>
+
+
+
+### Contact Me
 
 <a href="https://www.instagram.com/leticiapyres/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/leticia-pires/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/linkedin.png?raw=true"></a>
