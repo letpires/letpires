@@ -4,9 +4,9 @@
 
 ### Hey there 👋,
 
-<ul>
+
 I graduated in Civil Engineering from the Regional University of Blumenau in 2019 and am currently migrating to Data Science. For this reason, I recently started studies at the Applied Data Science Bootcamp at Alura and I have been developing projects in the area.
-</ul>
+
 
 </ul>
 I am passionate about technology, entrepreneurship and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity.
@@ -23,6 +23,8 @@ I am passionate about technology, entrepreneurship and personal development. Thu
 
 
 ### Contact Me
+
+Feel free to contact me
 
 <a href="https://www.instagram.com/leticiapyres/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/leticia-pires/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/linkedin.png?raw=true"></a>
