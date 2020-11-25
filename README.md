@@ -22,9 +22,9 @@ I am passionate about technology, entrepreneurship and personal development. Thu
 
 
 
-### Contact Me
+### Contact Me ⚡
 
-Feel free to contact me
+Feel free to contact me!
 
 <a href="https://www.instagram.com/leticiapyres/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/leticia-pires/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/linkedin.png?raw=true"></a>
