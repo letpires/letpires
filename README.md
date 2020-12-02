@@ -15,9 +15,12 @@ I am passionate about technology, entrepreneurship and personal development. Thu
 ### Interests ⚡
 
 <ul>
-  <li>Machine Learning</li>
-  <li>Data Visualization</li>
   <li>Python</li>
+  <li>Data Visualization</li>
+  <li>Power BI</li>
+  <li>Machine Learning</li>
+  
+  
 </ul>
 
 
