@@ -1,4 +1,4 @@
-# [![Letícia Pires](https://github.com/letpires/letpires/blob/main/PYTHON%2C%20DATA%20VISUALIZATION%2C%20MACHINE%20LEARNING%20(4).png)](https://github.com/letpires/letpires/blob/main/PYTHON%2C%20DATA%20VISUALIZATION%2C%20MACHINE%20LEARNING%20(4).png)
+# [![Letícia Pires](https://github.com/letpires/letpires/blob/main/Github.png)](https://github.com/letpires/letpires/blob/main/Github.png)
 
 
 
