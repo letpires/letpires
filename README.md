@@ -1,6 +1,12 @@
 # ![](https://github.com/letpires/letpires/blob/main/LET%C3%8DCIA%20PIRES%20(2).png)
 
 
+  <div>
+  <a href = "mailto: leticiapyres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
+  <a href="https://instagram.com/leticiapyres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
+</div>
 
 
 ### Hey there 👋,
@@ -12,6 +18,7 @@ I graduated in Civil Engineering from the Regional University of Blumenau in 201
 </ul>
 I am passionate about technology, entrepreneurship and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity.
 </ul>
+
 
 ### Interests ⚡
 
@@ -25,17 +32,9 @@ I am passionate about technology, entrepreneurship and personal development. Thu
 
 ### 🧐 My Github stats...
 
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=letpires&show_icons=true&theme=radical)
+ <div>
+  <a href="https://github.com/letpires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=letpires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpires&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
-### Contact Me ⚡
-
-Feel free to contact me!
-
- ##
-  
-  <div>
-  <a href = "mailto: leticiapyres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
-  <a href="https://instagram.com/leticiapyres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
-</div>
