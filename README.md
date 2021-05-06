@@ -24,7 +24,7 @@ I am passionate about technology, entrepreneurship and personal development. Thu
 
 ### 🧐 Uma olhadinha no meu GitHub...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiletpiresanuraghazra&show_icons=true&theme=radical)
+![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=letpires&show_icons=true&theme=radical)
 
 ### Contact Me ⚡
 
