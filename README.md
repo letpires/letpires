@@ -2,7 +2,7 @@
 
 
   <div>
-  <a href = "mailto: leticiapyres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://medium.com/leti-pires"><img src="https://img.shields.io/badge/-Blog-%23EA4335?style=for-the-badge&logo=ghost&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
   <a href="https://instagram.com/leticiapyres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
@@ -16,9 +16,8 @@ I graduated in Civil Engineering from the Regional University of Blumenau in 201
 
 
 </ul>
-I am passionate about technology, entrepreneurship and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity.
-</ul>
-
+I am passionate about technology, entrepreneurship and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity. 
+I also love coffee, traveling, drawing, hiking, organizing. ☕</ul>
 
 ### Interests ⚡
 
