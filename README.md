@@ -16,14 +16,15 @@ I am passionate about technology, entrepreneurship and personal development. Thu
 
 <ul>
   <li>Python</li>
-  <li>Data Visualization</li>
-  <li>Power BI</li>
+  <li>Artificial Intelligence</li>
   <li>Machine Learning</li>
   
   
 </ul>
 
+### 🧐 Uma olhadinha no meu GitHub...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### Contact Me ⚡
 
