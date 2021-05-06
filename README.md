@@ -1,19 +1,12 @@
 # ![](https://github.com/letpires/letpires/blob/main/LET%C3%8DCIA%20PIRES%20(1).png)
 
- ##
-  
-  <div>
-  <a href = "mailto: leticiapyres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leticia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
-  <a href="https://instagram.com/leticiapyres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
-</div>
+
 
 
 ### Hey there 👋,
 
 
-I graduated in Civil Engineering from the Regional University of Blumenau in 2019 and am currently migrating to Data Science. For this reason, I recently started studies at the Applied Data Science Bootcamp at Alura and I have been developing projects in the area.
+I graduated in Civil Engineering from the Regional University of Blumenau in 2019 and am currently migrating to Data Science. In November 2020, I started my Data Science studies at Alura's Bootcamp, in which I had the opportunity to develop in the area through the creation of DS and ML projects. In fact, the last project I developed (Predicting the need for ICU beds at Hospital Sírio Libanês), was the one that opened doors to enter the data market. Today I work as a Data Scientist Jr. at Sauter, a partner company Google.
 
 
 </ul>
@@ -30,7 +23,7 @@ I am passionate about technology, entrepreneurship and personal development. Thu
   
 </ul>
 
-### 🧐 Uma olhadinha no meu GitHub...
+### 🧐 My Github stats...
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=letpires&show_icons=true&theme=radical)
 
@@ -38,6 +31,11 @@ I am passionate about technology, entrepreneurship and personal development. Thu
 
 Feel free to contact me!
 
-<a href="https://www.instagram.com/leticiapyres/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/leticia-pires/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/linkedin.png?raw=true"></a>
-<a href="https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg?view_as=subscriber"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/youtube.png?raw=true"></a>
+ ##
+  
+  <div>
+  <a href = "mailto: leticiapyres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
+  <a href="https://instagram.com/leticiapyres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
+</div>
