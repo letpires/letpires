@@ -38,3 +38,4 @@ I also love coffee, traveling, drawing, hiking, organizing. ☕</ul>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpires&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
+  ![Snake animation](https://github.com/letpires/letpires/blob/output/github-contribution-grid-snake.svg)
