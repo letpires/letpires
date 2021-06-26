@@ -1,4 +1,4 @@
-# ![](https://github.com/letpires/letpires/blob/main/LET%C3%8DCIA%20PIRES%20(2).gif)
+# ![](https://github.com/letpires/letpires/blob/main/capa%20github.png)
 
 
   <div>
