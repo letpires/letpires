@@ -5,7 +5,7 @@
   <a href = "https://medium.com/leti-pires"><img src="https://img.shields.io/badge/-Blog-%23EA4335?style=for-the-badge&logo=ghost&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
-  <a href="https://instagram.com/leticiapyres" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
+  <a href="https://instagram.com/letispires" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
   <a href="https://discord.gg/fcq4n8JDg2" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
