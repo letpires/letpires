@@ -1,8 +1,8 @@
-# ![](https://github.com/letpires/letpires/blob/main/girl.png)
+<img align="left" alt="Leti-pic" height="300" style="border-radius:50px;" src="https://github.com/letpires/letpires/blob/main/girl.png?width=676&height=676">
 
 
   <div>
-  <p align="center">
+  <p align="left">
     <a href = "https://medium.com/leti-pires"><img src="https://img.shields.io/badge/-Blog-%23EA4335?style=for-the-badge&logo=ghost&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/leticia-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UC7C3taM54q4rsEIDPFNVsLg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
@@ -17,30 +17,20 @@
 
 ### Hey there 👋,
 
-
-I graduated in Civil Engineering from the Regional University of Blumenau in 2019 and am currently migrating to Data Science. In November 2020, I started my Data Science studies at Alura's Bootcamp, in which I had the opportunity to develop in the area through the creation of DS and ML projects. In fact, the last project I developed (Predicting the need for ICU beds at Hospital Sírio Libanês), was the one that opened doors to enter the data market. Today I work as a Data Scientist Jr. at Sauter, a partner company Google.
-
-
+I'm Letícia, but you can call me Leti. I have a degree in eng. civil, but currently I work as a Data Scientist at Sauter, developing machine learning models, using Python as the main language, and using GCP tools.
 </ul>
-I am passionate about technology, entrepreneurship and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity. 
-I also love coffee, traveling, drawing, hiking, organizing. ☕</ul>
+I am passionate about technology and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity. 
+I also love coffee and travels. ☕</ul>
 
-### Interests ⚡
 
-<ul>
-  <li>Python</li>
-  <li>Artificial Intelligence</li>
-  <li>Machine Learning</li>
-  
-  
-</ul>
 
 ### 🧐 My Github stats...
 
  <div>
+ <p align="left">
    <a href="https://github.com/letpires">
-   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=letpires&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpires&layout=compact&langs_count=16&theme=radical"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=letpires&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpires&layout=compact&langs_count=16&theme=radical"/>
 <div>
 
   
