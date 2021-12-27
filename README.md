@@ -21,6 +21,7 @@ I'm Letícia, but you can call me Leti. I have a degree in eng. civil, but curre
 I am passionate about technology and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity. 
 I also love coffee and travels. ☕</ul>
 
+</ul>
 
 
 ### 🧐 My Github stats...
