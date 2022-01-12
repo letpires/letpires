@@ -1,4 +1,4 @@
-<img align="left" alt="Leti-pic" height="275" style="border-radius:50px;" src="https://github.com/letpires/letpires/blob/main/girl.png?width=676&height=676">
+<img align="left" alt="Leti-pic" height="300" style="border-radius:50px;" src="https://github.com/letpires/letpires/blob/main/pic%20leti.png">
 
 
   <div>
