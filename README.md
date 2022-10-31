@@ -1,4 +1,4 @@
-<img align="left" alt="Leti-pic" height="300" style="border-radius:50px;" src="https://github.com/letpires/letpires/blob/main/pic%20leti.png">
+<img align="left" alt="Leti-pic" height="300" style="border-radius:50px;" src="https://github.com/letpires/letpires/blob/main/DALL%C2%B7E%202022-10-17%2016.06.21%20-%20girl%20with%20bangs%20art%20coding.png">
 
 
   <div>
@@ -16,7 +16,7 @@
 
 ### Hey there 👋,
 
-I'm Letícia, but you can call me Leti. I have a degree in eng. civil, but currently I work as a Data Scientist at Sauter, developing machine learning models, using Python as the main language, and using GCP tools.
+I'm Letícia, but you can call me Leti. I have a degree in eng. civil, but currently I work as a Data Scientist, developing machine learning models, using Python as the main language, and using GCP tools.
 </ul>
 I am passionate about technology and personal development. Thus, I am always looking for new ways of improvement, through books, media and others. I also created an Instagram to be able to share content, knowledge and learning about this world of technology, Data Science, productivity. 
 I also love coffee and travels. ☕</ul>
