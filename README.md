@@ -1,5 +1,3 @@
-<img align="left" alt="Leti-pic" height="300" style="border-radius:50px;" src="https://github.com/letpires/letpires/blob/main/DALL%C2%B7E%202022-10-17%2016.06.21%20-%20girl%20with%20bangs%20art%20coding.png">
-
 
   <div>
   <p align="left">
